@@ -1,0 +1,5 @@
+# The reference agent modules import only these (they are read, not run).
+pydantic==2.12.5
+structlog==22.1.0
+pyyaml==6.0.1
+httpx==0.28.1

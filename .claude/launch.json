@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {"name": "bench-ui", "runtimeExecutable": "uv", "runtimeArgs": ["run", "bench", "serve"], "port": 8765}
+  ]
+}
